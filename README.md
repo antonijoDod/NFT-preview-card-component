@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](./screenshot.jpg?raw=true "Project image")
+![Alt text](./screenshot.png?raw=true "Project image")
 
 ### Links
 
-- Live Site URL: [netlify](https://nft-card-antonijo.netlify.app/)
+- Live Site URL: [https://nft-card-antonijo.netlify.app](https://nft-card-antonijo.netlify.app/)
 
 ## My process
 
