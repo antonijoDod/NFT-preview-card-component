@@ -16,7 +16,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,12 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Alt text](./screenshot.jpg?raw=true "Project image")
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://nft-card-antonijo.netlify.app/)
-- Live Site URL: [Add live site URL here](https://nft-card-antonijo.netlify.app/)
+- Live Site URL: [netlify](https://nft-card-antonijo.netlify.app/)
 
 ## My process
 
