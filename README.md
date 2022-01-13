@@ -38,24 +38,28 @@ Users should be able to:
 
 ### Built with
 
+- Parcel
 - BEM
-- CSS custom properties
+- SCSS
 - Flexbox
 - Mobile-first workflow
 
 ### What I learned
 
 How to use BEM and how to give names to html elements.
+Parcel - i love it. It's very cool pice of technology, help me a lot with scss compiling and serving html.
+This is my first time to work with new version SCSS, in beginning confusing but after a while it's very clean to me how to use it.
 
 ### Continued development
 
 I want to focus more on BEM and try use it with React components.
 Definitely more focus on pixel perfect design.
-
+Nice preparation  for next bigger project with this project setup.
 ### Useful resources
 
 - [CSS tricks - object fit](https://css-tricks.com/on-object-fit-and-object-position/) - This helped me for fix issue with centering image.
-
+- [Youtube - Kevin Powell](https://www.youtube.com/watch?v=CR-a8upNjJ0&t=611s) - Nice explanation of new scss.
+- [Parcel](https://parceljs.org/) - Parcel JS documentation
 ## Author
 
 - Website - [Antonijo Dod](htpps://antonijo.com)
